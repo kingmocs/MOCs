@@ -1,1 +1,36 @@
+img{
+  max-width:100%;
+}
 
+p{
+  color:black;
+}
+
+body{
+  background-color:#3ea5bc;
+  /*background-image: url(images/caterpillar.jpg);*/
+}
+
+a{
+  color:white
+}
+
+.veyron{
+  background-color: #FF530D;
+}
+
+.chiron{
+  background-color: #E82C0C;
+}
+
+.divolink{
+  color: #3ea5bc;
+}
+
+.chironlink{
+  color: #E82C0C
+}
+
+.veyronlink{
+  color: #FF530D;
+}
