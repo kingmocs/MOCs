@@ -8,11 +8,12 @@ p{
 
 body{
   background-color:#3ea5bc;
-  /*background-image: url(images/caterpillar.jpg);*/
 }
 
 a{
-  color:white
+  color:white;
+  text-decoration: none;
+  font-family: 'Roboto', sans-serif;
 }
 
 .veyron{
@@ -24,13 +25,17 @@ a{
 }
 
 .divolink{
-  color: #3ea5bc;
+  /*color: #3ea5bc;-->*/
 }
 
 .chironlink{
-  color: #E82C0C
+  /*color: #E82C0C*/
 }
 
 .veyronlink{
-  color: #FF530D;
+  /*color: #FF530D;*/
+}
+
+ul{
+  list-style-type: square;
 }
